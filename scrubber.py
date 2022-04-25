@@ -1,6 +1,3 @@
-# install requests first
-# #install pip3 
-
 
 import requests
 
